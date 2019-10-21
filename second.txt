@@ -1,1 +1,3 @@
 this is second.txt
+
+hello this is new changes in second.txt
